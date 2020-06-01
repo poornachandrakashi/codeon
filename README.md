@@ -9,6 +9,7 @@ To open the notebooks shares please install the below software.
 After the installation of the package,
 go to your start bar in your taskbar.
 look for anaconda prompt
+[![Run on Repl.it](https://repl.it/badge/github/poornachandrakashi/codeon)](https://repl.it/github/poornachandrakashi/codeon)
 
 Type git clone https://github.com/poornachandrakashi/Christacademy/edit/master/README.md
 in the prompt
